@@ -1,0 +1,10 @@
+{
+  "name": "Career Radar",
+  "description": "Hyper-local proactive career and opportunity discovery engine finding nearby talent, jobs, co-founders, and mentorship.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
